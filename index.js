@@ -1,4 +1,4 @@
-module.export = (str)=>{
+module.exports = (str)=>{
     switch(str){
         case "angry":
             return "(#`Д´)ﾉ";
